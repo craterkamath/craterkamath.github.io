@@ -14,7 +14,7 @@ Currently runs at https://vinayakakamath.me
 
 * Add a blog section
 * Carousel section to show projects
-* Add a "Buy Me a Coffee" popup on the bottom left
+* ~~Add a "Buy Me a Coffee" popup on the bottom left~~
 
 This website wouldn't have been possible without [Satwik Bhattamishra](https://github.com/satwik77) and [Sebastin Stany](https://github.com/sebastinsanty). <br>
 
